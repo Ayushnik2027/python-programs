@@ -1,0 +1,5 @@
+Name=input("tell your cgpa of btech")
+print("name is :",Name)
+print(type(Name))
+Name=int(Name)
+print(type(Name))

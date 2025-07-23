@@ -1,0 +1,5 @@
+s={10,10.5,"raman",True, "Raman"}
+print(type(s))
+s1={}
+print(type(s))
+s2={10}

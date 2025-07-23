@@ -1,0 +1,10 @@
+while
+--------------------
+if we want to execute a group of statement until conditon False then we have to use whie loop in python
+while statement
+
+while condition:
+  statement
+  statement 
+while 10>5:
+  print("ok")
